@@ -1,4 +1,6 @@
 # cloud-itonami-isco-3333
+Occupation reference: ISCO-08 (International Labour Organization, 2012), code 3333. This app is not produced, reviewed or endorsed by the ILO.
+職業の参照: ISCO-08（国際労働機関 ILO、2012 年）のコード 3333。日本語の名称は当方の訳です。この app は ILO が作成・確認・推奨したものではありません。
 
 Open Occupation Blueprint for **ISCO-08 3333**: Employment Agents and Contractors.
 
@@ -74,8 +76,3 @@ See [`docs/business-model.md`](docs/business-model.md) and
 ## License
 
 AGPL-3.0-or-later.
-
-## Attribution / 出典
-
-- 職業分類: ISCO-08（国際労働機関 ILO）のコード 3333 を参照。この app は ILO が作成・確認・推奨したものではありません。
-- Occupation reference: ISCO-08 (International Labour Organization), code 3333. This app is not produced, reviewed or endorsed by the ILO.
